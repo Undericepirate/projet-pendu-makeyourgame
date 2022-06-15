@@ -1,0 +1,16 @@
+C:\Users\leo\pendu unity\bin\Debug\net5.0\pendu unity.exe
+C:\Users\leo\pendu unity\bin\Debug\net5.0\pendu unity.deps.json
+C:\Users\leo\pendu unity\bin\Debug\net5.0\pendu unity.runtimeconfig.json
+C:\Users\leo\pendu unity\bin\Debug\net5.0\pendu unity.runtimeconfig.dev.json
+C:\Users\leo\pendu unity\bin\Debug\net5.0\pendu unity.dll
+C:\Users\leo\pendu unity\bin\Debug\net5.0\pendu unity.pdb
+C:\Users\leo\pendu unity\obj\Debug\net5.0\pendu unity.csproj.AssemblyReference.cache
+C:\Users\leo\pendu unity\obj\Debug\net5.0\pendu unity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo\pendu unity\obj\Debug\net5.0\pendu unity.AssemblyInfoInputs.cache
+C:\Users\leo\pendu unity\obj\Debug\net5.0\pendu unity.AssemblyInfo.cs
+C:\Users\leo\pendu unity\obj\Debug\net5.0\pendu unity.csproj.CoreCompileInputs.cache
+C:\Users\leo\pendu unity\obj\Debug\net5.0\pendu unity.dll
+C:\Users\leo\pendu unity\obj\Debug\net5.0\refint\pendu unity.dll
+C:\Users\leo\pendu unity\obj\Debug\net5.0\pendu unity.pdb
+C:\Users\leo\pendu unity\obj\Debug\net5.0\pendu unity.genruntimeconfig.cache
+C:\Users\leo\pendu unity\obj\Debug\net5.0\ref\pendu unity.dll
